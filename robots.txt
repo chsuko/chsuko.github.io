@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chsuko.github.io/BDq/sitemap.BDq.gz
